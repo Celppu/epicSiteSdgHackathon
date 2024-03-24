@@ -33,6 +33,7 @@ function typeText(text, element) {
       "Weather risks",
       "Wind map explanation",
       "Rain map explanation",
+      "Rain map prediction in 2035",
       "Hot weather explanation",
       "Hot weather prediction explanation"
     ];
