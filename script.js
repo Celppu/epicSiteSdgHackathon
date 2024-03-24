@@ -34,8 +34,8 @@ function typeText(text, element) {
       "Wind map explanation",
       "Rain map explanation",
       "Rain map prediction in 2035",
-      "Hot weather explanation",
-      "Hot weather prediction explanation"
+      "Hot weather explanation 🧯",
+      "Hot weather prediction explanation 🔥"
     ];
   
     // Initialize the first image and explanation
