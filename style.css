@@ -1,0 +1,38 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+  }
+  
+  .container {
+    width: 100%;
+  }
+  
+  .image-section img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .image-section p {
+    text-align: center;
+  }
+  
+  .ai-inference {
+    opacity: 0;
+    transition: opacity 2s;
+    text-align: center;
+    font-size: 20px;
+  }
+  
+  .slider img {
+    display: none;
+    width: 100%; /* Adjust as needed */
+    height: auto;
+  }
+  
+  .slider img.active {
+    display: block;
+  }
+  
